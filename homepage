@@ -39,11 +39,11 @@ div.gallery {
     <p>PZP DESIGNS</p>
   </div>
   <div class="w3-display-topleft w3-container w3-xlarge">
-    <p><a href="/webdesign" class="w3-button w3-black">website designs</a></p>
-    <p><a href="/apps" class="w3-button w3-black">graphic designs</a></p>
-    <p><a href="/photography" class="w3-button w3-black">photography</a></p>
-    <p><a href="/about" class="w3-button w3-black">about</a></p>
-    <p><a href="/contact" class="w3-button w3-black">contact</a></p>    
+    <p><a href="https://pzpdesigns.com/webdesign" class="w3-button w3-black">website designs</a></p>
+    <p><a href="https://pzpdesigns.com/graphicdesign" class="w3-button w3-black">graphic designs</a></p>
+    <p><a href="https://pzpdesigns.com/photography" class="w3-button w3-black">photography</a></p>
+    <p><a href="https://pzpdesigns.com/about" class="w3-button w3-black">about</a></p>
+    <p><a href="https://pzpdesigns.com/contact" class="w3-button w3-black">contact</a></p>    
   </div>
   <div class="w3-display-bottomleft w3-container">
     <p>powered by <a href="https://www.wordpress.com/" target="_blank">wordpress</a></p>
